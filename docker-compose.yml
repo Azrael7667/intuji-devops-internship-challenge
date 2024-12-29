@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  app:
+    image: php-hello-world:latest
+    ports:
+      - "8081:80"
+    container_name: php-hello-world-app
