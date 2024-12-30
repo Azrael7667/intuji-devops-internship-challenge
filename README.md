@@ -98,7 +98,9 @@ This document provides the steps taken to complete the DevOps internship task, a
   ![image](https://github.com/user-attachments/assets/ff75b0a1-1463-4977-b9cb-361ed13988b8)
 
   3. Saved the code and started to build.
-  4. Achieved success on the 30th attempt after multiple failures.
+  4. Achieved success on the #32 attempt after multiple failures.
+     ![image](https://github.com/user-attachments/assets/abf6d4d0-d4f0-4ff2-b772-46e52b768330)
+
 - **Result**: The project was built successfully.
 ![image](https://github.com/user-attachments/assets/8ce2b54d-1c7d-4704-bdd8-a2653dc92ea4)
 
