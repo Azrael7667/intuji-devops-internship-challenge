@@ -121,4 +121,4 @@ This document provides the steps taken to complete the DevOps internship task, a
 ## Repositories
 
 - **Docker Hub**: [solomon76/php-hello-world](https://hub.docker.com/repository/docker/solomon76/php-hello-world/general)
-- **GitHub**: [Azrael7667/intuji-devops-internship-challenge](https://github.com/Azrael7667/intuji-devops-internship-challenge)
+
